@@ -1,4 +1,7 @@
 #### sync.WaitGroup 是 Golang 中常用的并发措施，我们可以用它来等待一批 Goroutine 结束。
+::::iqqq:
+
+
 
 ## WaitGroup 的使用和实现逻辑
 
